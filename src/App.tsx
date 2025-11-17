@@ -1,7 +1,6 @@
 
 import type React from 'react'
 import './App.css'
-import UserCardComponent from './components/UserCardComponent'
 
 interface ParentProps {
   children: React.ReactNode
